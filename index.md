@@ -1,4 +1,4 @@
-# 🚀 Moja Pierwsza Strona na GitHub
+# 🚀 Gemini to napisało
 
 Witaj w moim pierwszym repozytorium! Ten projekt służy do nauki podstaw systemu kontroli wersji Git oraz platformy GitHub.
 
