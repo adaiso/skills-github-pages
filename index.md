@@ -1,5 +1,15 @@
----
-title: Welcome to my blog elo elo elo!
----
+# 🚀 Moja Pierwsza Strona na GitHub
 
-Jakiś tekst.
+Witaj w moim pierwszym repozytorium! Ten projekt służy do nauki podstaw systemu kontroli wersji Git oraz platformy GitHub.
+
+## 📋 Zadania do wykonania:
+- [x] Utworzenie repozytorium
+- [x] Dodanie pliku README
+- [ ] Pierwszy "Pull Request"
+
+## 💻 Mój kod w Pythonie:
+```python
+def powitanie():
+    print("Cześć! Właśnie uczę się GitHuba.")
+
+powitanie()
